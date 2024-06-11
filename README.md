@@ -2,7 +2,6 @@
 # Data Science Curriculum
 
 - [Tentative schedule](https://docs.google.com/spreadsheets/d/1dFjTYSxrviJ2crVNM-oLtn4QnQ-rLmmrOq9bBgPa-8s/edit?usp=sharing)
-- [Zoom recordings](https://docs.google.com/spreadsheets/d/1TOUg_nIrYOLaTPxg-YdZre_awuy5s8XNUCNxhHEfG1M/edit#gid=0) (If you can't see the content please click on request access)
 
 Instructor: [Viviana Márquez](https://www.linkedin.com/in/vivianamarquez/)<br>
 Email: vivianamarquez305 (at) gmail (dot) com
